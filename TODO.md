@@ -1,0 +1,1 @@
+- [x] Create README.md file with project description, setup instructions, and usage guide
